@@ -22,5 +22,6 @@ options:
 substitutions:
     COMMIT_SHA: 'testinggg'
     TRIGGER_NAME: 'TESTCHANGE'
+    REF_NAME: 'TESTREFNEW'
 
 # [END cloudbuild_quickstart_automate]
