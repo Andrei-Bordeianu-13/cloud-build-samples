@@ -18,4 +18,8 @@ steps:
     args: ['go', 'run', 'quickstart-automate/main.go']
 options:
   logging: CLOUD_LOGGING_ONLY
+
+substitutions:
+    COMMIT_SHA: 'testinggg'
+
 # [END cloudbuild_quickstart_automate]
