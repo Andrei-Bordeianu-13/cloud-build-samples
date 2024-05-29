@@ -21,8 +21,8 @@ steps:
 options:
   logging: CLOUD_LOGGING_ONLY
 
-substitutions:
-    COMMIT_SHA: 'testinggg'
+#substitutions:
+    #COMMIT_SHA: 'testinggg'
     #TRIGGER_NAME: 'TESTCHANGE'
     #REF_NAME: 'TESTREFNEW'
 
