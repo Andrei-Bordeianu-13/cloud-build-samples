@@ -19,9 +19,9 @@ steps:
 options:
   logging: CLOUD_LOGGING_ONLY
 
-substitutions:
-   _COMMIT_SHA: 'testinggg'
-   _TRIGGER_NAME: 'TESTCHANGE'
-   _REF_NAME: 'TESTREFNEW'
+#substitutions:
+#   _COMMIT_SHA: 'testinggg'
+#  _TRIGGER_NAME: 'TESTCHANGE'
+# _REF_NAME: 'TESTREFNEW'
 
 # [END cloudbuild_quickstart_automate]
